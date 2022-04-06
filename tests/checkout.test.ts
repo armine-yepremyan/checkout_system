@@ -2,7 +2,7 @@ import { Checkout } from '../src/index';
 
 const pricingRules = ['atv', 'ipd'];
 
-describe('testing index file', () => {
+describe('testing checkout file', () => {
   let co: Checkout;
 
   beforeEach(() => {
