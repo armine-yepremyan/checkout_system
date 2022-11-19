@@ -1,4 +1,4 @@
-# backend_ts_codding_challenge
+# Checkout System
 
 X company is starting a computer store. It will have the following products in the catalogue
 
